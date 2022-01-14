@@ -58,3 +58,7 @@ for i in instance.i:
             plt.scatter( i,j,s=10,color='red')
 plt.axis('off')
 plt.show()
+
+
+
+f.savefig('NQueen.png', format='png', dpi=1200)
