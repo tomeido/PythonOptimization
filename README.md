@@ -28,3 +28,5 @@ Pyomo Bootcamp: Python Optimization from Beginner to Advance
 ![EX12_Page_5](https://user-images.githubusercontent.com/39527133/149474751-a6720162-f00a-464f-bd9b-38d196621d3c.jpg)
 
 ![EX13A](https://user-images.githubusercontent.com/39527133/149474759-3412af23-5d1a-49d3-b24c-5e535ac50e82.jpg)
+
+![EX34B](https://user-images.githubusercontent.com/39527133/149482154-d347c753-66af-49af-8f6d-85c3c2c04725.jpg)
