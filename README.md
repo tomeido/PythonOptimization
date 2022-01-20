@@ -46,3 +46,19 @@ Pyomo Bootcamp: Python Optimization from Beginner to Advance
 ![EX17](https://user-images.githubusercontent.com/39527133/149853484-ccec6245-24c2-4b17-b07b-d04fe5b1da08.jpg)
 
 ![EX19](https://user-images.githubusercontent.com/39527133/149853491-6ee8e09c-6f5c-4493-95bd-8b5e2829286f.jpg)
+
+![EX24_Page_1](https://user-images.githubusercontent.com/39527133/150245469-dd99e377-68f9-45ed-a72f-f784030ae769.jpg)
+
+![EX24_Page_2](https://user-images.githubusercontent.com/39527133/150245476-fff70278-2ecd-427e-9fc8-b2f4746d3c90.jpg)
+
+![EX25](https://user-images.githubusercontent.com/39527133/150245484-f1ad5c89-644f-4712-99c0-d83e80b210da.jpg)
+
+![EX26B_Page_1](https://user-images.githubusercontent.com/39527133/150245490-636c32ba-cfc6-4b17-9f43-7ba01f9a41e6.jpg)
+
+![EX26B_Page_2](https://user-images.githubusercontent.com/39527133/150245502-a9cd97bf-2be9-4750-ba1d-f2a465c1838c.jpg)
+
+![EX28](https://user-images.githubusercontent.com/39527133/150245525-9add2066-df8b-4ec5-86be-ce95ea69bb16.jpg)
+
+![EX35](https://user-images.githubusercontent.com/39527133/150245538-a79c2d2f-ae91-4200-90f4-f6c0861504e5.jpg)
+
+![EX36-graphcoloring](https://user-images.githubusercontent.com/39527133/150245546-01a7aa37-b7e6-4761-9671-1dff70e6bd37.jpg)
