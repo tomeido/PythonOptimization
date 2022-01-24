@@ -62,3 +62,13 @@ Pyomo Bootcamp: Python Optimization from Beginner to Advance
 ![EX35](https://user-images.githubusercontent.com/39527133/150245538-a79c2d2f-ae91-4200-90f4-f6c0861504e5.jpg)
 
 ![EX36-graphcoloring](https://user-images.githubusercontent.com/39527133/150245546-01a7aa37-b7e6-4761-9671-1dff70e6bd37.jpg)
+
+![Ex36D](https://user-images.githubusercontent.com/39527133/150705266-0af0a0dc-5474-4ed2-ba4a-b2f89d5efac8.jpg)
+
+![Ex36C](https://user-images.githubusercontent.com/39527133/150705268-e419f453-e612-4e73-b38e-433438d073b3.jpg)
+
+![EX26](https://user-images.githubusercontent.com/39527133/150705281-f692b0e5-f6f7-4181-a6f1-c2453ab639a9.jpg)
+
+![EX30](https://user-images.githubusercontent.com/39527133/150705296-6ad66cea-b0d5-48d2-b0a3-087dd2d16a4a.jpg)
+
+![EX31](https://user-images.githubusercontent.com/39527133/150705304-2c62911d-f6ac-4502-bf77-3bda7270dfb9.jpg)
