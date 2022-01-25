@@ -12,19 +12,14 @@ Pyomo Bootcamp: Python Optimization from Beginner to Advance
 ![EX8](https://user-images.githubusercontent.com/39527133/149250071-78beeb46-f747-4e05-b163-6dc988129ec7.jpg)
 
 ![EX10_Page_1](https://user-images.githubusercontent.com/39527133/149250082-b1542f52-c7be-42d4-bb43-5907a0102d4f.jpg)
-
 ![EX10_Page_2](https://user-images.githubusercontent.com/39527133/149250086-c9a53d11-5be9-4583-be5f-906db08f6194.jpg)
 
 ![EX11](https://user-images.githubusercontent.com/39527133/149474693-812b0d68-5b78-4d7d-aa12-37eefbd0118d.jpg)
 
 ![EX12_Page_1](https://user-images.githubusercontent.com/39527133/149474720-495edd98-6a30-47c1-a3a3-a8a91c10d06a.jpg)
-
 ![EX12_Page_2](https://user-images.githubusercontent.com/39527133/149474724-e329b6bc-28c0-4614-b640-5ecb774800a9.jpg)
-
 ![EX12_Page_3](https://user-images.githubusercontent.com/39527133/149474734-ba8e1b36-e3b7-4f73-8115-a093ca7e81de.jpg)
-
 ![EX12_Page_4](https://user-images.githubusercontent.com/39527133/149474742-7db7d3f1-e7e6-4e67-a296-5d075aeb69c6.jpg)
-
 ![EX12_Page_5](https://user-images.githubusercontent.com/39527133/149474751-a6720162-f00a-464f-bd9b-38d196621d3c.jpg)
 
 ![EX13A](https://user-images.githubusercontent.com/39527133/149474759-3412af23-5d1a-49d3-b24c-5e535ac50e82.jpg)
@@ -32,13 +27,9 @@ Pyomo Bootcamp: Python Optimization from Beginner to Advance
 ![EX34B](https://user-images.githubusercontent.com/39527133/149482154-d347c753-66af-49af-8f6d-85c3c2c04725.jpg)
 
 ![EX15_Page_1](https://user-images.githubusercontent.com/39527133/149853446-25af7647-f5ff-482c-820d-0a69c4a7875e.jpg)
-
 ![EX15_Page_2](https://user-images.githubusercontent.com/39527133/149853451-704483ca-b75d-4e3b-851d-e9e31a840a9f.jpg)
-
 ![EX15_Page_3](https://user-images.githubusercontent.com/39527133/149853456-0442172b-4cac-42b1-a437-700ec075a99f.jpg)
-
 ![EX15_Page_4](https://user-images.githubusercontent.com/39527133/149853464-fb00b51f-711a-488e-b264-69d0a3c15186.jpg)
-
 ![EX15_Page_5](https://user-images.githubusercontent.com/39527133/149853468-ef337cf2-b5ca-45b2-927b-b9d337ad871d.jpg)
 
 ![EX16](https://user-images.githubusercontent.com/39527133/149853473-0e7e08a6-dea9-4fc7-8d55-0ad1c737ff1b.jpg)
@@ -48,13 +39,11 @@ Pyomo Bootcamp: Python Optimization from Beginner to Advance
 ![EX19](https://user-images.githubusercontent.com/39527133/149853491-6ee8e09c-6f5c-4493-95bd-8b5e2829286f.jpg)
 
 ![EX24_Page_1](https://user-images.githubusercontent.com/39527133/150245469-dd99e377-68f9-45ed-a72f-f784030ae769.jpg)
-
 ![EX24_Page_2](https://user-images.githubusercontent.com/39527133/150245476-fff70278-2ecd-427e-9fc8-b2f4746d3c90.jpg)
 
 ![EX25](https://user-images.githubusercontent.com/39527133/150245484-f1ad5c89-644f-4712-99c0-d83e80b210da.jpg)
 
 ![EX26B_Page_1](https://user-images.githubusercontent.com/39527133/150245490-636c32ba-cfc6-4b17-9f43-7ba01f9a41e6.jpg)
-
 ![EX26B_Page_2](https://user-images.githubusercontent.com/39527133/150245502-a9cd97bf-2be9-4750-ba1d-f2a465c1838c.jpg)
 
 ![EX28](https://user-images.githubusercontent.com/39527133/150245525-9add2066-df8b-4ec5-86be-ce95ea69bb16.jpg)
@@ -82,10 +71,15 @@ Pyomo Bootcamp: Python Optimization from Beginner to Advance
 ![EX33B](https://user-images.githubusercontent.com/39527133/150725424-aa0a57ae-e1a9-41f9-b0f6-d74b1133b754.jpg)
 
 ![EX32B_Page_1](https://user-images.githubusercontent.com/39527133/150725433-96b0e7cd-e16c-4e44-bad3-3eb49749f250.jpg)
-
 ![EX32B_Page_2](https://user-images.githubusercontent.com/39527133/150725437-3e5b8427-d88a-4b25-b9fd-23544ab5f38d.jpg)
-
 ![EX32B_Page_3](https://user-images.githubusercontent.com/39527133/150725442-bba38c6f-12d1-4221-95c2-9165b085ac45.jpg)
 
 ![EX18](https://user-images.githubusercontent.com/39527133/150725446-d5a182a3-5fe0-4797-a091-8e50f30c0453.jpg)
 
+![Ex40_Page_1](https://user-images.githubusercontent.com/39527133/150909815-2149452f-80e8-4ac9-a202-68370c3273a0.jpg)
+![Ex40_Page_2](https://user-images.githubusercontent.com/39527133/150909820-3b090826-0307-4ef5-af74-f5ea47e78ada.jpg)
+
+![EX31](https://user-images.githubusercontent.com/39527133/150909821-30bff967-d9b0-4dd0-a3a6-b088857c1222.jpg)
+
+![EX14_Page_1](https://user-images.githubusercontent.com/39527133/150909825-76f2ec7b-4602-4eb1-bc35-e09a4f52c568.jpg)
+![EX14_Page_2](https://user-images.githubusercontent.com/39527133/150909826-d3497be1-1ec1-4810-856f-a842288da7d9.jpg)
