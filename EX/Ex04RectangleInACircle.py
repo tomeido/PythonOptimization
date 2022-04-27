@@ -15,8 +15,8 @@ model.f1=Objective(expr=4*model.x*model.y,sense=maximize)
 
 
 
-opt = SolverFactory('ipopt')
-results=opt.solve(model);
+solver = SolverFactory('ipopt')
+results=solver.solve(model);
 
 
 
