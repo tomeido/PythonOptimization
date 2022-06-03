@@ -26,6 +26,7 @@ model.C1   = Constraint(model.t,model.i,rule=rule_C1)
 def rule_C2(model,t,j):
         return  sum(model.x[t,i,j] for i in model.i)>=model.Demand[j]*model.pattern[t]
 model.C2   = Constraint(model.t,model.j,rule=rule_C2)
+
 def rule_OF(model):
     return model.OF==sum(model.P[t,i]*model.Cost[i] for i in model.i for t in model.t) + sum(model.x[t,i,j]*model.distance[i,j] for i in model.i for j in model.j for t in model.t)
 model.C3   = Constraint(rule=rule_OF)
