@@ -1,7 +1,6 @@
 from pyomo.environ import *
 import numpy as np
 
-
 model = AbstractModel()
 model.i = Set()
 model.j = Set()
